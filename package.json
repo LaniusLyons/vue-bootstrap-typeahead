@@ -10,17 +10,6 @@
     "bootstrap 4",
     "typeahead"
   ],
-  "homepage": "https://alexurquhart.github.io/vue-bootstrap-typeahead/",
-  "repository": "github:alexurquhart/vue-bootstrap-typeahead",
-  "bugs": {
-    "url": "https://github.com/alexurquhart/vue-bootstrap-typeahead/issues"
-  },
-  "license": "MIT",
-  "author": {
-    "name": "Alex Urquhart",
-    "email": "alexurquhart@gmail.com",
-    "url": "https://alexurquhart.com"
-  },
   "main": "src/components/VueBootstrapTypeahead.vue",
   "scripts": {
     "serve": "vue-cli-service serve",
