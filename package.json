@@ -22,7 +22,6 @@
     "url": "https://alexurquhart.com"
   },
   "main": "src/components/VueBootstrapTypeahead.vue",
-  "unpkg": "dist/VueBootstrapTypeahead.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name VueBootstrapTypeahead src/components/VueBootstrapTypeahead.vue",
