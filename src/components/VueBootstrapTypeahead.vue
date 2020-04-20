@@ -17,6 +17,7 @@
         @blur="handleBlur"
         @input="handleInput($event.target.value)"
         autocomplete="off"
+        required
       />
       <div v-if="$slots.append || append" class="input-group-append">
         <slot name="append">
